@@ -111,6 +111,14 @@ java Main
 - Database integration for storing historical logs.
 - Interactive dashboard for log visualization.
 
+## Screenshots
+
+### DevTrace Console Output
+![DevTrace Output](Screenshot%202026-11-11%20100527.png)
+
+### DevTrace Error Analysis Report
+![DevTrace Report](Screenshot%202026-11-11%20101151.png)
+
 ## Author
 
 **Tejasvi Yalamanchili**
