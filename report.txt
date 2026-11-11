@@ -1,0 +1,5 @@
+==========Log Report==========
+INFO messages: 1
+WARNING messages: 0
+ERROR messages: 0
+==========Frequent Errors==========
